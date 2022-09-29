@@ -1,5 +1,6 @@
 ahoj
 
+<<<<<<< HEAD
 ahoj 2
 
 xxx
@@ -10,3 +11,6 @@ dalsi zmena
 
 
 zmena na githubu
+=======
+change in another branche
+>>>>>>> dev
